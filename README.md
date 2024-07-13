@@ -24,7 +24,7 @@
  </div>
  
 <div align="center"> 
-  <a href="kevalpanchal2604@gmail.com">
+  <a href="mailto:kevalpanchal2604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="http://www.linkedin.com/in/keval-panchal" target="_blank">
