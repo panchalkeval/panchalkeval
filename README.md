@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying in **Parul University**
+ 🎓 I’m currently studying in **Parul University**
  
  🌱 I’m currently learning **flutter, android devlopment**
 
